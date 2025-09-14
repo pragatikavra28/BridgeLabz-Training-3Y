@@ -1,0 +1,36 @@
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore BlueJ files
+*.ctxt
+
+# Ignore generated files
+*.jar
+*.war
+*.ear
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IntelliJ IDEA / Eclipse project files
+/.idea/
+/*.iml
+/.vscode/
+/.settings/
+/bin/
+/out/
+/target/
+
+# Ignore build tools
+.gradle/
+/mvnw
+mvnw.cmd
